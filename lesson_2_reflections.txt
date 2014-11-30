@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+New local repo with further possibility to push to remote server will be created.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+In working directory stored the files are don't known for repository unlike staging area. To not commit something unnecessary.

@@ -13,3 +13,7 @@ Forks use when you need your own copy of existed repo on GitHub, clones - local 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 To track all new changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It may possible with another CVS but of course it needs some additional knowledge because of it woulde be has some differences also using email could possible to collaborate. But these mentioned variantes haven't such efficient way as Git together with GitHub.
